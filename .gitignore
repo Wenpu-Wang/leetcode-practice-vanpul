@@ -152,3 +152,6 @@ cython_debug/
 #.idea/
 
 src/.idea
+src/重复数最小代价.py
+src/Python Input Test.py
+src/Python Class Test.py
